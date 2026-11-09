@@ -1,0 +1,3 @@
+# bind_filter_from() and the pagination dict used by sqlite_viewer.py
+# need a reasonably recent NiceGUI.
+nicegui>=2.0
